@@ -5,7 +5,7 @@ class ErrorLayout extends StatelessWidget {
 
   final Function goToRoute;
 
-  static const buttonText = "Return back";
+  static const buttonText = "Follow back";
   static const nameOfScreen = 'Error screen';
   static const testStyle = TextStyle(color: Colors.red, fontSize: 24.0);
 
